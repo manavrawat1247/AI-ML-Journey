@@ -1,0 +1,13 @@
+import java util.*;
+class program
+{ 
+public static void main(String args[])
+{
+scanner sc=new scanner(system.in); 
+System.out.print("Enter two number");
+int a=sc.nextInt();
+int b=sc.nextInt();
+double avg=(a+b)/2;
+System.out.println("Average="+avg);}}
+
+
